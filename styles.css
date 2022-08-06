@@ -1,0 +1,36 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #ded5d5;
+}
+
+html{
+    min-height: 100vh;
+}
+
+h1{
+    position: relative;
+    text-align: center;
+}
+div{
+    
+    text-align: center;
+    display: block;
+    font-size: 32px;
+}
+div img{
+    height: 35rem;
+    width: 35rem;    
+}
+div ul{
+    display: flex;
+}
+div ul li{
+    color:red
+}
+div ul li a{
+    color: red;
+}
+div ul li img{
+    height: 25rem;
+    width: 25rem;
+}
