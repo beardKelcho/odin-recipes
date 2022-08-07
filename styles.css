@@ -1,6 +1,7 @@
 *{
     font-family: 'Times New Roman', Times, serif;
     background-color: #ded5d5;
+    border: 2px solid;
 }
 
 html{
@@ -38,5 +39,5 @@ div ul li img{
 
 .lazanya{
     color: black;
-    
+
 }
