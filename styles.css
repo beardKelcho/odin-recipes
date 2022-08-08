@@ -38,6 +38,13 @@ div ul li img{
 
 
 .lazanya{
-    color: black;
-
+    display: block;
+    font-size: 8px;
+    
+}
+.lazanya-logo{
+    height: auto;
+    width: 350px;
+    margin-left: 5;
+    
 }
